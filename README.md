@@ -1,13 +1,12 @@
 # DEMO
 ## Demo1
 #### code
-![image](https://github.com/116052018111/Mygit/blob/master/QQ20201017214233.png)
+
 #### results
 ![image](https://github.com/116052018111/Mygit/blob/master/QQ20201005200052.png)
 ## Demo2
 ### Demo2_01
 #### code
-![image](https://github.com/116052018111/Mygit/blob/master/QQ20201017213104.png)
 ![image](https://github.com/116052018111/Mygit/blob/master/QQ20201017212125.png)
 #### results
 ![image](https://github.com/116052018111/Mygit/blob/master/QQ20201013163823.png)
